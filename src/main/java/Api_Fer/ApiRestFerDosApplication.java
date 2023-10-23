@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiRestFerUnoApplication {
+public class ApiRestFerDosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiRestFerUnoApplication.class, args);
+		SpringApplication.run(ApiRestFerDosApplication.class, args);
 	}
 
 }
